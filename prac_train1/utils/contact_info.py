@@ -7,6 +7,8 @@ from faker import Faker
 from prac_train1.utils.log_util import logger
 
 
+# pip install Faker
+# Mock 假数据
 class ContactInfo:
     # 定义类方法
     @classmethod
